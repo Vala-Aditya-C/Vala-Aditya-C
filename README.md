@@ -17,3 +17,12 @@
 
 ## 📫 Connect with Me
 - GitHub: [Vala-Aditya-C](https://github.com/Vala-Aditya-C)
+
+-----------------------------------
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vala-Aditya-C&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vala-Aditya-C&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=Vala-Aditya-C&color=blue)
